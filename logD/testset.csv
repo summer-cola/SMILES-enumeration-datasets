@@ -1,0 +1,114 @@
+,NO,SMILES structure,logD,smi
+0,A-logD7.4-808,O1C(=Nc2c(cccc2C)C1=O)C(C)(C)C,4.0,O 1 C ( = N c 2 c ( c c c c 2 C ) C 1 = O ) C ( C ) ( C ) C
+1,O-43,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,-3.1,O C [C@@H] ( O ) [C@@H] ( O ) [C@H] ( O ) [C@H] ( O ) C O
+2,G-logD7.4-60,Clc1cc(N2CCN(CC2)CCCN2N=C(N(CCOc3ccccc3)C2=O)CC)ccc1,4.83,Cl c 1 c c ( N 2 C C N ( C C 2 ) C C C N 2 N = C ( N ( C C O c 3 c c c c c 3 ) C 2 = O ) C C ) c c c 1
+3,A-logD7.4-771,Ic1cc(cc(I)c1OCCCN(C)C)C(=O)c1c2c(oc1CCCC)cccc2,5.77,I c 1 c c ( c c ( I ) c 1 O C C C N ( C ) C ) C ( = O ) c 1 c 2 c ( o c 1 C C C C ) c c c c 2
+4,A-logD7.4-471,Clc1cc2nccc(-n3c4c(cc(OC)cc4)c(CC(O)=O)c3C)c2cc1,1.7,Cl c 1 c c 2 n c c c ( - n 3 c 4 c ( c c ( O C ) c c 4 ) c ( C C ( O ) = O ) c 3 C ) c 2 c c 1
+5,A-logD7.4-603,n1nc(Nn2c(ccc2C)C)ccc1N1CCCC1,2.45,n 1 n c ( N n 2 c ( c c c 2 C ) C ) c c c 1 N 1 C C C C 1
+6,A-logD7.4-145,Fc1cc(F)ccc1N1C=C(C(O)=O)C(=O)c2cc(F)c(N3CCNCC3)cc12,-0.48,F c 1 c c ( F ) c c c 1 N 1 C = C ( C ( O ) = O ) C ( = O ) c 2 c c ( F ) c ( N 3 C C N C C 3 ) c c 12
+7,B-logD7.4-200,Clc1cc2NC(NS(=O)(=O)c2cc1S(=O)(=O)N)C(Cl)Cl,0.43,Cl c 1 c c 2 N C ( N S ( = O ) ( = O ) c 2 c c 1 S ( = O ) ( = O ) N ) C ( Cl ) Cl
+8,E-logD7.4-10,Fc1cc(N\C(=N/O)\c2ccc(OC)cc2)ccc1,3.09,F c 1 c c ( N \ C ( = N / O ) \ c 2 c c c ( O C ) c c 2 ) c c c 1
+9,A-logD7.4-323,OC(=O)c1cc2n(CC(=O)N(C)C)c(c(c2nc1)C1CCCCC1)-c1ccccc1,0.8,O C ( = O ) c 1 c c 2 n ( C C ( = O ) N ( C ) C ) c ( c ( c 2 n c 1 ) C 1 C C C C C 1 ) - c 1 c c c c c 1
+10,A-logD7.4-271,O=C1N(c2nc(nc(c2CC1)C)C)Cc1ccc(cc1)-c1ccccc1-c1nn[nH]n1,0.49,O = C 1 N ( c 2 n c ( n c ( c 2 C C 1 ) C ) C ) C c 1 c c c ( c c 1 ) - c 1 c c c c c 1- c 1 n n [nH] n 1
+11,A-logD7.4-400,Clc1cc2NC3=C(C(=O)c2cc1)C(=O)N(NC3=O)C(C)c1ccc(cc1)C(OC)=O,1.3,Cl c 1 c c 2 N C 3 = C ( C ( = O ) c 2 c c 1 ) C ( = O ) N ( N C 3 = O ) C ( C ) c 1 c c c ( c c 1 ) C ( O C ) = O
+12,O-73,Clc1cc(NCc2occc2)c(cc1S(=O)(=O)N)C(O)=O,-0.9,Cl c 1 c c ( N C c 2 o c c c 2 ) c ( c c 1 S ( = O ) ( = O ) N ) C ( O ) = O
+13,B-logD7.4-58,O1CC[N+]([O-])(CC1)CCCNC(=O)[C@H](C(C)C)C[C@H](O)[C@@H](NC(=O)[C@@H](N[C@@H](Cc1ccccc1)C(=O)N1CCC(OCOC)CC1)CCCC)CC1CCCCC1,3.6,O 1 C C [N+] ( [O-] ) ( C C 1 ) C C C N C ( = O ) [C@H] ( C ( C ) C ) C [C@H] ( O ) [C@@H] ( N C ( = O ) [C@@H] ( N [C@@H] ( C c 1 c c c c c 1 ) C ( = O ) N 1 C C C ( O C O C ) C C 1 ) C C C C ) C C 1 C C C C C 1
+14,A-logD7.4-126,OC=1C(=O)C=CN(CCC(=O)N(CC)C)C=1C,-0.67,O C = 1 C ( = O ) C = C N ( C C C ( = O ) N ( C C ) C ) C = 1 C
+15,A-logD7.4-61,OC=1C(=O)C=CN(CCCC(O)=O)C=1CC,-1.38,O C = 1 C ( = O ) C = C N ( C C C C ( O ) = O ) C = 1 C C
+16,A-logD7.4-208,o1c2CCN(CCc2nc1N)CC,0.05,o 1 c 2 C C N ( C C c 2 n c 1 N ) C C
+17,A-logD7.4-532,Oc1cc(ccc1)[C@H](N1C[C@H](N(C[C@@H]1C)Cc1ccccc1)C)c1cc2c(CCN(C2)CCC(O)=O)cc1,2.1,O c 1 c c ( c c c 1 ) [C@H] ( N 1 C [C@H] ( N ( C [C@@H] 1 C ) C c 1 c c c c c 1 ) C ) c 1 c c 2 c ( C C N ( C 2 ) C C C ( O ) = O ) c c 1
+18,B-logD7.4-106,N(C(Nc1ccc(cc1)C(CC)C)=N)c1ccc(cc1)C(CC)C,3.94,N ( C ( N c 1 c c c ( c c 1 ) C ( C C ) C ) = N ) c 1 c c c ( c c 1 ) C ( C C ) C
+19,A-logD7.4-867,ClCCN(CCCl)c1ccc(cc1)CCCNC(OCCCCCC[C@H]1[C@H]2[C@@H]3CC[C@H](O)[C@]3(CC[C@@H]2c2c(cc(O)cc2)C1)C)=O,5.61,Cl C C N ( C C Cl ) c 1 c c c ( c c 1 ) C C C N C ( O C C C C C C [C@H] 1 [C@H] 2 [C@@H] 3 C C [C@H] ( O ) [C@] 3 ( C C [C@@H] 2 c 2 c ( c c ( O ) c c 2 ) C 1 ) C ) = O
+20,I-logDoct-PBS-15,OC(=O)c1ccc(cc1)Cn1c2c(nc1)cccc2,-0.61,O C ( = O ) c 1 c c c ( c c 1 ) C n 1 c 2 c ( n c 1 ) c c c c 2
+21,J-D7.4-9,OC=1C(=O)C=C(N(CC)C=1CO)C,-0.65,O C = 1 C ( = O ) C = C ( N ( C C ) C = 1 C O ) C
+22,A-logD7.4-506,O1c2c(OCC1Cc1[nH]ccn1)cccc2,1.92,O 1 c 2 c ( O C C 1 C c 1 [nH] c c n 1 ) c c c c 2
+23,A-logD7.4-690,N(CCC=C1c2c(C=Cc3c1cccc3)cccc2)(C)C,2.92,N ( C C C = C 1 c 2 c ( C = C c 3 c 1 c c c c 3 ) c c c c 2 ) ( C ) C
+24,A-logD7.4-143,O=C(N[C@H](CCc1ccccc1)C(=O)Nc1cc2c(nccc2)cc1)[C@@H]1N(C[C@H](C1)CN)C(=O)CN,-0.5,O = C ( N [C@H] ( C C c 1 c c c c c 1 ) C ( = O ) N c 1 c c 2 c ( n c c c 2 ) c c 1 ) [C@@H] 1 N ( C [C@H] ( C 1 ) C N ) C ( = O ) C N
+25,C-logD7.4-19,s1cccc1CNC(=O)c1n2c(nc1C)C=CC=C2,2.92,s 1 c c c c 1 C N C ( = O ) c 1 n 2 c ( n c 1 C ) C = C C = C 2
+26,A-logD7.4-454,Clc1sc2S(=O)(=O)N=C(Nc2c1)NC(C)C,1.63,Cl c 1 s c 2 S ( = O ) ( = O ) N = C ( N c 2 c 1 ) N C ( C ) C
+27,A-logD7.4-761,O(C)c1cc2N=C(c3n(-c2cc1)ccc3)\C=C\C,3.47,O ( C ) c 1 c c 2 N = C ( c 3 n ( - c 2 c c 1 ) c c c 3 ) \ C = C \ C
+28,A-logD7.4-773,O(C)c1cc2c(cc(cc2)CC\C(=N\O)\C)cc1,3.6,O ( C ) c 1 c c 2 c ( c c ( c c 2 ) C C \ C ( = N \ O ) \ C ) c c 1
+29,A-logD7.4-645,[Tc-]12(SCC[N+]1(CCS2)CCN(CC)CC)(Sc1ccc(cc1)C)[OH2+],2.66,[Tc-] 12 ( S C C [N+] 1 ( C C S 2 ) C C N ( C C ) C C ) ( S c 1 c c c ( c c 1 ) C ) [OH2+]
+30,B-logD7.4-237,O1c2cc(ccc2OC1)COC(=O)N1CCC2(N(CNC2=O)c2ccccc2)CC1,3.7,O 1 c 2 c c ( c c c 2 O C 1 ) C O C ( = O ) N 1 C C C 2 ( N ( C N C 2 = O ) c 2 c c c c c 2 ) C C 1
+31,A-logD7.4-693,Clc1cc2c(cc(S(=O)(=O)N[C@H]3CCN([C@H](C(=O)N4C5CCC(CC5)C4)C)C3=O)cc2)cc1,2.94,Cl c 1 c c 2 c ( c c ( S ( = O ) ( = O ) N [C@H] 3 C C N ( [C@H] ( C ( = O ) N 4 C 5 C C C ( C C 5 ) C 4 ) C ) C 3 = O ) c c 2 ) c c 1
+32,C-logD7.4-47,Clc1ccc(cc1)CNC(=O)c1n2c(nc1C)C=CC=C2,4.04,Cl c 1 c c c ( c c 1 ) C N C ( = O ) c 1 n 2 c ( n c 1 C ) C = C C = C 2
+33,A-logD7.4-674,[Tc-]12(SCC[N+]1(CCS2)CCOC)(Sc1ccc(OC)cc1)[OH2+],2.81,[Tc-] 12 ( S C C [N+] 1 ( C C S 2 ) C C O C ) ( S c 1 c c c ( O C ) c c 1 ) [OH2+]
+34,B-logD7.4-328,s1c2c(nc1O)c(O)ccc2CCNCCCS(=O)(=O)NCCOCCc1cc(ccc1)C(F)(F)F,2.62,s 1 c 2 c ( n c 1 O ) c ( O ) c c c 2 C C N C C C S ( = O ) ( = O ) N C C O C C c 1 c c ( c c c 1 ) C ( F ) ( F ) F
+35,O-94,O1c2c(C=CC1=O)cccc2,1.415,O 1 c 2 c ( C = C C 1 = O ) c c c c 2
+36,A-logD7.4-301,O1[C@@H]2[C@]34C([C@H](N(CC3)C)Cc3c4c1c(O)cc3)C=C[C@@H]2OC(=O)C,0.61,O 1 [C@@H] 2 [C@] 34 C ( [C@H] ( N ( C C 3 ) C ) C c 3 c 4 c 1 c ( O ) c c 3 ) C = C [C@@H] 2 O C ( = O ) C
+37,I-logDoct-PBS-30,n1c2c(n(c1)Cc1cc(ccc1)C#N)cccc2,2.47,n 1 c 2 c ( n ( c 1 ) C c 1 c c ( c c c 1 ) C # N ) c c c c 2
+38,B-logD7.4-219,s1nc2cc(ccc2n1)CN1CCC2(N(CNC2=O)c2ccccc2)CC1,2.6,s 1 n c 2 c c ( c c c 2 n 1 ) C N 1 C C C 2 ( N ( C N C 2 = O ) c 2 c c c c c 2 ) C C 1
+39,B-logD7.4-105,N(C(Nc1ccc(cc1)C(C)(C)C)=N)c1ccc(cc1)C(C)(C)C,3.65,N ( C ( N c 1 c c c ( c c 1 ) C ( C ) ( C ) C ) = N ) c 1 c c c ( c c 1 ) C ( C ) ( C ) C
+40,B-logD7.4-10,s1cc(S(=O)(=O)c2cc(CN(C)C)c(O)cc2)cc1S(=O)(=O)N,0.21,s 1 c c ( S ( = O ) ( = O ) c 2 c c ( C N ( C ) C ) c ( O ) c c 2 ) c c 1 S ( = O ) ( = O ) N
+41,A-logD7.4-576,O=C(NC1CCN(CC1)CCc1c2c([nH]c1)cccc2)c1ccccc1,2.31,O = C ( N C 1 C C N ( C C 1 ) C C c 1 c 2 c ( [nH] c 1 ) c c c c 2 ) c 1 c c c c c 1
+42,A-logD7.4-131,S(=O)(=O)(C)c1cc(ccc1)-c1nc(n(\C=C\[C@@H](O)C[C@@H](O)CC(=O)[O-])c1-c1ccc(F)cc1)C(C)C.[Na+],-0.6,S ( = O ) ( = O ) ( C ) c 1 c c ( c c c 1 ) - c 1 n c ( n ( \ C = C \ [C@@H] ( O ) C [C@@H] ( O ) C C ( = O ) [O-] ) c 1- c 1 c c c ( F ) c c 1 ) C ( C ) C . [Na+]
+43,O-289,S1[C@H]2N([C@@H](C(O)=O)C1(C)C)C(=O)[C@H]2NC(=O)[C@H](N)c1ccc(O)cc1,-2.56,S 1 [C@H] 2 N ( [C@@H] ( C ( O ) = O ) C 1 ( C ) C ) C ( = O ) [C@H] 2 N C ( = O ) [C@H] ( N ) c 1 c c c ( O ) c c 1
+44,B-logD7.4-356,Fc1c(NC(=O)Cc2[nH]nc(Nc3ncnc4c3cc(OC)c(OCCCN3CCC[C@@H]3CO)c4)c2)cccc1F,2.0,F c 1 c ( N C ( = O ) C c 2 [nH] n c ( N c 3 n c n c 4 c 3 c c ( O C ) c ( O C C C N 3 C C C [C@@H] 3 C O ) c 4 ) c 2 ) c c c c 1 F
+45,A-logD7.4-660,O(CCCCc1ccccc1)c1ccc(cc1)CCNC[C@H](O)c1cc(NC=O)c(O)cc1,2.76,O ( C C C C c 1 c c c c c 1 ) c 1 c c c ( c c 1 ) C C N C [C@H] ( O ) c 1 c c ( N C = O ) c ( O ) c c 1
+46,O-11,O1C[C@H]2[C@@H]([C@@H](c3c(cc4OCOc4c3)[C@H]2O[C@@H]2O[C@H]3[C@@H](O[C@@H](OC3)C)[C@@H](O)[C@H]2O)c2cc(OC)c(O)c(OC)c2)C1=O,1.82,O 1 C [C@H] 2 [C@@H] ( [C@@H] ( c 3 c ( c c 4 O C O c 4 c 3 ) [C@H] 2 O [C@@H] 2 O [C@H] 3 [C@@H] ( O [C@@H] ( O C 3 ) C ) [C@@H] ( O ) [C@H] 2 O ) c 2 c c ( O C ) c ( O ) c ( O C ) c 2 ) C 1 = O
+47,A-logD7.4-580,Brc1ccccc1NC(=O)Nc1ccc(cc1Cl)CC(=O)N1C[C@@H](F)C[C@H]1COc1ccc(cc1)C(O)=O,2.34,Br c 1 c c c c c 1 N C ( = O ) N c 1 c c c ( c c 1 Cl ) C C ( = O ) N 1 C [C@@H] ( F ) C [C@H] 1 C O c 1 c c c ( c c 1 ) C ( O ) = O
+48,A-logD7.4-180,Fc1cc2c(N(C=C(C(O)=O)C2=O)c2ccccc2C)cc1N1CC(NC(C1)C)C,-0.17,F c 1 c c 2 c ( N ( C = C ( C ( O ) = O ) C 2 = O ) c 2 c c c c c 2 C ) c c 1 N 1 C C ( N C ( C 1 ) C ) C
+49,A-logD7.4-86,OC=1C(=O)C=CN(CCCC(=O)NC)C=1C,-1.08,O C = 1 C ( = O ) C = C N ( C C C C ( = O ) N C ) C = 1 C
+50,C-logD7.4-24,Fc1ccc(Oc2cc(cnc2)-c2cc3nc([nH]c3cc2)N)cc1,3.11,F c 1 c c c ( O c 2 c c ( c n c 2 ) - c 2 c c 3 n c ( [nH] c 3 c c 2 ) N ) c c 1
+51,A-logD7.4-442,OC(CN(CC(O)C)c1nnc(Nn2c(ccc2C)C)cc1)C,1.55,O C ( C N ( C C ( O ) C ) c 1 n n c ( N n 2 c ( c c c 2 C ) C ) c c 1 ) C
+52,A-logD7.4-485,FC(F)(F)c1cc2nccc(c2cc1)-c1c2cc(ccc2n(CC(O)=O)c1C)C,1.8,F C ( F ) ( F ) c 1 c c 2 n c c c ( c 2 c c 1 ) - c 1 c 2 c c ( c c c 2 n ( C C ( O ) = O ) c 1 C ) C
+53,O-562,Clc1ccc(cc1)C(=O)n1c2c(cc(OC)cc2)c(CC(O)=O)c1C,0.68,Cl c 1 c c c ( c c 1 ) C ( = O ) n 1 c 2 c ( c c ( O C ) c c 2 ) c ( C C ( O ) = O ) c 1 C
+54,B-logD7.4-332,Clc1cc(ccc1)CCOCCNS(=O)(=O)CCCNCCc1c2sc(O)nc2c(O)cc1,1.92,Cl c 1 c c ( c c c 1 ) C C O C C N S ( = O ) ( = O ) C C C N C C c 1 c 2 s c ( O ) n c 2 c ( O ) c c 1
+55,A-logD7.4-536,Clc1cc2NC3=C(C(=O)c2cc1)C(=O)N(NC3=O)Cc1oc2c(c1)cccc2,2.1,Cl c 1 c c 2 N C 3 = C ( C ( = O ) c 2 c c 1 ) C ( = O ) N ( N C 3 = O ) C c 1 o c 2 c ( c 1 ) c c c c 2
+56,B-logD7.4-174,s1cc(nc1CN(C)C)CSCCN\C(\NC)=C\[N+](=O)[O-],-0.52,s 1 c c ( n c 1 C N ( C ) C ) C S C C N \ C ( \ N C ) = C \ [N+] ( = O ) [O-]
+57,A-logD7.4-651,O1C(=O)c2c(N=C1OCC)cc(N)cc2CC,2.7,O 1 C ( = O ) c 2 c ( N = C 1 O C C ) c c ( N ) c c 2 C C
+58,O-145,OC(=O)C(C)c1ccc(cc1)CC(C)C,0.88,O C ( = O ) C ( C ) c 1 c c c ( c c 1 ) C C ( C ) C
+59,B-logD7.4-100,Clc1c(cc(Cl)cc1Cl)-c1cnc(nc1N)N1CCN(CC1)C,3.39,Cl c 1 c ( c c ( Cl ) c c 1 Cl ) - c 1 c n c ( n c 1 N ) N 1 C C N ( C C 1 ) C
+60,A-logD7.4-429,N(CCCN1c2c(CCc3c1cccc3)cccc2)C,1.45,N ( C C C N 1 c 2 c ( C C c 3 c 1 c c c c 3 ) c c c c 2 ) C
+61,A-logD7.4-328,O1[C@@H]2[C@]34C([C@H](N(CC3)C)Cc3c4c1c(OC(=O)C)cc3)C=C[C@@H]2OC(=O)C,0.85,O 1 [C@@H] 2 [C@] 34 C ( [C@H] ( N ( C C 3 ) C ) C c 3 c 4 c 1 c ( O C ( = O ) C ) c c 3 ) C = C [C@@H] 2 O C ( = O ) C
+62,B-logD7.4-270,s1c2c(nc1O)c(O)ccc2CCNCCCS(=O)(=O)CCOCCc1ccccc1N,1.17,s 1 c 2 c ( n c 1 O ) c ( O ) c c c 2 C C N C C C S ( = O ) ( = O ) C C O C C c 1 c c c c c 1 N
+63,B-logD7.4-342,Clc1cc2-n3c(ccc3)C(=Nc2cc1)NCCCN(CCCNC1=Nc2c(-n3c1ccc3)cc(Cl)cc2)C,4.44,Cl c 1 c c 2- n 3 c ( c c c 3 ) C ( = N c 2 c c 1 ) N C C C N ( C C C N C 1 = N c 2 c ( - n 3 c 1 c c c 3 ) c c ( Cl ) c c 2 ) C
+64,O-15,O1c2c(C(=O)C=C1C(O)=O)c(OCC(O)COc1c3c(OC(=CC3=O)C(O)=O)ccc1)ccc2,-1.15,O 1 c 2 c ( C ( = O ) C = C 1 C ( O ) = O ) c ( O C C ( O ) C O c 1 c 3 c ( O C ( = C C 3 = O ) C ( O ) = O ) c c c 1 ) c c c 2
+65,E-logD7.4-54,O\N=C(/NC1CCCCC1)\c1ccc(cc1)CC,4.6,O \ N = C ( / N C 1 C C C C C 1 ) \ c 1 c c c ( c c 1 ) C C
+66,O-67,O=C1CC[C@@]2([C@@H]3[C@H]([C@@H]4CC[C@H](C(=O)C)[C@]4(CC3)C)CCC2=C1)C,3.48,O = C 1 C C [C@@] 2 ( [C@@H] 3 [C@H] ( [C@@H] 4 C C [C@H] ( C ( = O ) C ) [C@] 4 ( C C 3 ) C ) C C C 2 = C 1 ) C
+67,B-logD7.4-12,s1cc(cc1S(=O)(=O)N)C(=O)c1cc(CN(C)C)c(O)cc1,0.36,s 1 c c ( c c 1 S ( = O ) ( = O ) N ) C ( = O ) c 1 c c ( C N ( C ) C ) c ( O ) c c 1
+68,A-logD7.4-509,Fc1ccc(cc1)C1(OCc2c1ccc(c2)C#N)CCCN(C)C,1.94,F c 1 c c c ( c c 1 ) C 1 ( O C c 2 c 1 c c c ( c 2 ) C # N ) C C C N ( C ) C
+69,O-148,O1[C@H]2[C@H]3N([C@H]([C@@H]12)CC(OC(=O)C(CO)c1ccccc1)C3)C,0.21,O 1 [C@H] 2 [C@H] 3 N ( [C@H] ( [C@@H] 12 ) C C ( O C ( = O ) C ( C O ) c 1 c c c c c 1 ) C 3 ) C
+70,O-164,O\N=C(/N)\c1cc2[nH]c(nc2cc1)-c1ncccc1,1.6,O \ N = C ( / N ) \ c 1 c c 2 [nH] c ( n c 2 c c 1 ) - c 1 n c c c c 1
+71,A-logD7.4-611,OC(=O)c1cc-2nc(c(c-2[nH]c1)C1CCCCC1)-c1ccccc1,2.5,O C ( = O ) c 1 c c -2 n c ( c ( c -2 [nH] c 1 ) C 1 C C C C C 1 ) - c 1 c c c c c 1
+72,A-logD7.4-626,o1nc(nc1[C@H](CCCC1CCCCC1)CC(=O)NO)C(=O)N,2.6,o 1 n c ( n c 1 [C@H] ( C C C C 1 C C C C C 1 ) C C ( = O ) N O ) C ( = O ) N
+73,B-logD7.4-141,O(C(=O)[C@H]1CC2N(C(CC2)[C@H]1C(OC)=O)C)c1ccccc1,1.05,O ( C ( = O ) [C@H] 1 C C 2 N ( C ( C C 2 ) [C@H] 1 C ( O C ) = O ) C ) c 1 c c c c c 1
+74,A-logD7.4-733,O1C(=O)c2c(N=C1N[C@H](CC(C)C)C(OC)=O)cccc2,3.2,O 1 C ( = O ) c 2 c ( N = C 1 N [C@H] ( C C ( C ) C ) C ( O C ) = O ) c c c c 2
+75,A-logD7.4-501,[Tc-]123(SCCN1C(=O)C[N+]2(CCS3)CCNCCCC)[OH2+],1.9,[Tc-] 123 ( S C C N 1 C ( = O ) C [N+] 2 ( C C S 3 ) C C N C C C C ) [OH2+]
+76,A-logD7.4-110,OC=1C(=O)C=CN(CCC(OC)=O)C=1C,-0.77,O C = 1 C ( = O ) C = C N ( C C C ( O C ) = O ) C = 1 C
+77,A-logD7.4-221,S1(=O)(=O)N(CCN1C(C)C)Cc1cc2c([nH]cc2CCN(C)C)cc1,0.16,S 1 ( = O ) ( = O ) N ( C C N 1 C ( C ) C ) C c 1 c c 2 c ( [nH] c c 2 C C N ( C ) C ) c c 1
+78,A-logD7.4-677,FC(F)(F)c1ccc(OC(CCNC)c2ccccc2)cc1,2.84,F C ( F ) ( F ) c 1 c c c ( O C ( C C N C ) c 2 c c c c c 2 ) c c 1
+79,I-logDoct-PBS-16,O=C(N)c1cc(ccc1)Cn1ccnc1,-0.01,O = C ( N ) c 1 c c ( c c c 1 ) C n 1 c c n c 1
+80,A-logD7.4-455,O(C)c1ccc(cc1)C[C@H](NC(N)=N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1c2c([nH]c1)cccc2)C(=O)N[C@@H](Cc1ccccc1)C(=O)N,1.63,O ( C ) c 1 c c c ( c c 1 ) C [C@H] ( N C ( N ) = N ) C ( = O ) N 1 C C C [C@H] 1 C ( = O ) N [C@@H] ( C c 1 c 2 c ( [nH] c 1 ) c c c c 2 ) C ( = O ) N [C@@H] ( C c 1 c c c c c 1 ) C ( = O ) N
+81,B-logD7.4-254,s1c2c(nc1O)c(O)ccc2CCNCCCCCCOCCc1ccccc1,2.73,s 1 c 2 c ( n c 1 O ) c ( O ) c c c 2 C C N C C C C C C O C C c 1 c c c c c 1
+82,A-logD7.4-313,[Na+].Fc1ccc(cc1)-c1n(\C=C\[C@@H](O)C[C@@H](O)CC(=O)[O-])c(nc1-c1ccc(F)cc1)C(C)C,0.72,[Na+] . F c 1 c c c ( c c 1 ) - c 1 n ( \ C = C \ [C@@H] ( O ) C [C@@H] ( O ) C C ( = O ) [O-] ) c ( n c 1- c 1 c c c ( F ) c c 1 ) C ( C ) C
+83,A-logD7.4-366,OC(=O)c1nc2n(CC(=O)N(C)C)c(c(c2cc1)C1CCCCC1)-c1ccccc1,1.1,O C ( = O ) c 1 n c 2 n ( C C ( = O ) N ( C ) C ) c ( c ( c 2 c c 1 ) C 1 C C C C C 1 ) - c 1 c c c c c 1
+84,A-logD7.4-280,O=C(N[C@H](CCc1ccccc1)C(=O)Nc1cc2c(nccc2)cc1)[C@@H]1NC[C@H](C1)CN,0.5,O = C ( N [C@H] ( C C c 1 c c c c c 1 ) C ( = O ) N c 1 c c 2 c ( n c c c 2 ) c c 1 ) [C@@H] 1 N C [C@H] ( C 1 ) C N
+85,A-logD7.4-341,Fc1ncc(cc1-c1ccc(F)nc1)[C@@H]1[C@@H]2N([C@@H](C1)CC2)C,0.96,F c 1 n c c ( c c 1- c 1 c c c ( F ) n c 1 ) [C@@H] 1 [C@@H] 2 N ( [C@@H] ( C 1 ) C C 2 ) C
+86,B-logD7.4-331,s1c2c(nc1O)c(O)ccc2CCNCCS(=O)(=O)CCCO[C@H](Cc1ccccc1)C,1.81,s 1 c 2 c ( n c 1 O ) c ( O ) c c c 2 C C N C C S ( = O ) ( = O ) C C C O [C@H] ( C c 1 c c c c c 1 ) C
+87,A-logD7.4-770,O(NC(=O)Nc1cc2[nH]cc(c2cc1)-c1ccncc1)Cc1ccccc1,3.54,O ( N C ( = O ) N c 1 c c 2 [nH] c c ( c 2 c c 1 ) - c 1 c c n c c 1 ) C c 1 c c c c c 1
+88,I-logDoct-PBS-5,OC(=O)c1cc(ccc1)Cc1ncccn1,-1.98,O C ( = O ) c 1 c c ( c c c 1 ) C c 1 n c c c n 1
+89,A-logD7.4-766,O1CCN(CC1)c1nccc(c1)C(=O)Nc1cc(Nc2ncnc3c2cc(OCCN(C(C)C)C(C)C)c(OC)c3)c(cc1)C,3.5,O 1 C C N ( C C 1 ) c 1 n c c c ( c 1 ) C ( = O ) N c 1 c c ( N c 2 n c n c 3 c 2 c c ( O C C N ( C ( C ) C ) C ( C ) C ) c ( O C ) c 3 ) c ( c c 1 ) C
+90,E-logD7.4-19,O(C)c1ccc(cc1)/C(=N\O)/Nc1cc(ccc1)CC,3.76,O ( C ) c 1 c c c ( c c 1 ) / C ( = N \ O ) / N c 1 c c ( c c c 1 ) C C
+91,A-logD7.4-586,[Tc-]12(SCC[N+]1(CCS2)CCN(CC)CC)(SCc1ccccc1)[OH2+],2.38,[Tc-] 12 ( S C C [N+] 1 ( C C S 2 ) C C N ( C C ) C C ) ( S C c 1 c c c c c 1 ) [OH2+]
+92,C-logD7.4-57,Clc1ccc(cc1)-c1oc(nn1)NC(=O)c1cc(ccc1)C(F)(F)F,4.51,Cl c 1 c c c ( c c 1 ) - c 1 o c ( n n 1 ) N C ( = O ) c 1 c c ( c c c 1 ) C ( F ) ( F ) F
+93,A-logD7.4-319,[Cl-].Fc1cc2C3c4[n+](C(CC3(c3ccoc3)c3ccoc3)c2cc1)cccc4,0.75,[Cl-] . F c 1 c c 2 C 3 c 4 [n+] ( C ( C C 3 ( c 3 c c o c 3 ) c 3 c c o c 3 ) c 2 c c 1 ) c c c c 4
+94,A-logD7.4-669,Clc1cc(ccc1Cl)[C@@H]1CC[C@H](NC)c2cc(ccc12)C(=O)NC,2.8,Cl c 1 c c ( c c c 1 Cl ) [C@@H] 1 C C [C@H] ( N C ) c 2 c c ( c c c 12 ) C ( = O ) N C
+95,O-121,Clc1c2O[C@]3([C@@H](CC(=O)C=C3OC)C)C(=O)c2c(OC)cc1OC,2.18,Cl c 1 c 2 O [C@] 3 ( [C@@H] ( C C ( = O ) C = C 3 O C ) C ) C ( = O ) c 2 c ( O C ) c c 1 O C
+96,O-434,Clc1cc(O)ccc1,2.56,Cl c 1 c c ( O ) c c c 1
+97,B-logD7.4-345,Clc1cc2-n3c(ccc3)C(=Nc2cc1)NCCCN1CCN(CC1)CCCNC1=Nc2c(-n3c1ccc3)cc(Cl)cc2,4.92,Cl c 1 c c 2- n 3 c ( c c c 3 ) C ( = N c 2 c c 1 ) N C C C N 1 C C N ( C C 1 ) C C C N C 1 = N c 2 c ( - n 3 c 1 c c c 3 ) c c ( Cl ) c c 2
+98,B-logD7.4-201,S1c2c(N(c3c1cccc3)CCCN(C)C)cc(cc2)C(F)(F)F,3.61,S 1 c 2 c ( N ( c 3 c 1 c c c c 3 ) C C C N ( C ) C ) c c ( c c 2 ) C ( F ) ( F ) F
+99,C-logD7.4-17,O(C)c1ccc(Nc2ccccc2NC(=O)c2ccc(O)nc2)cc1,2.92,O ( C ) c 1 c c c ( N c 2 c c c c c 2 N C ( = O ) c 2 c c c ( O ) n c 2 ) c c 1
+100,O-232,OC(=O)Cn1cc(cc1)C(=O)c1ccc([N+](=O)[O-])cc1,-0.72,O C ( = O ) C n 1 c c ( c c 1 ) C ( = O ) c 1 c c c ( [N+] ( = O ) [O-] ) c c 1
+101,A-logD7.4-547,S(=O)(=O)(C)c1ccc(cc1)CC(=O)N(CC)C1CCN(CC1)CC[C@@H](c1cc(F)cc(F)c1)c1ccc(S(=O)(=O)C)cc1,2.2,S ( = O ) ( = O ) ( C ) c 1 c c c ( c c 1 ) C C ( = O ) N ( C C ) C 1 C C N ( C C 1 ) C C [C@@H] ( c 1 c c ( F ) c c ( F ) c 1 ) c 1 c c c ( S ( = O ) ( = O ) C ) c c 1
+102,O-191,Clc1cc(Cl)ccc1[C@@]1(O[C@H](CO1)COc1ccc(N2CCN(CC2)C(=O)C)cc1)Cn1ccnc1,4.33,Cl c 1 c c ( Cl ) c c c 1 [C@@] 1 ( O [C@H] ( C O 1 ) C O c 1 c c c ( N 2 C C N ( C C 2 ) C ( = O ) C ) c c 1 ) C n 1 c c n c 1
+103,O-344,OC(=O)[C@H](NC(=O)[C@@H](NC(=O)[C@H](N)Cc1ccccc1)Cc1ccccc1)Cc1ccccc1,-0.29,O C ( = O ) [C@H] ( N C ( = O ) [C@@H] ( N C ( = O ) [C@H] ( N ) C c 1 c c c c c 1 ) C c 1 c c c c c 1 ) C c 1 c c c c c 1
+104,A-logD7.4-784,O1C(=O)c2c(N=C1N(C(C)C)C(C)C)cccc2,3.7,O 1 C ( = O ) c 2 c ( N = C 1 N ( C ( C ) C ) C ( C ) C ) c c c c 2
+105,A-logD7.4-458,Oc1ccc(cc1)C[C@H](NC(=O)[C@@H](NC(=O)[C@H]1N(CCC1)C(=O)[C@@H](NC(=O)C)Cc1ccccc1)Cc1ccccc1)C(=O)N,1.64,O c 1 c c c ( c c 1 ) C [C@H] ( N C ( = O ) [C@@H] ( N C ( = O ) [C@H] 1 N ( C C C 1 ) C ( = O ) [C@@H] ( N C ( = O ) C ) C c 1 c c c c c 1 ) C c 1 c c c c c 1 ) C ( = O ) N
+106,A-logD7.4-446,Oc1cc(ccc1)[C@H](N1C[C@H](N(C[C@@H]1C)Cc1ccccc1)C)c1cc2c(CCN(C2)C(=O)C(O)=O)cc1,1.6,O c 1 c c ( c c c 1 ) [C@H] ( N 1 C [C@H] ( N ( C [C@@H] 1 C ) C c 1 c c c c c 1 ) C ) c 1 c c 2 c ( C C N ( C 2 ) C ( = O ) C ( O ) = O ) c c 1
+107,O-499,OC(=O)[C@@H](NC(=O)[C@@H](N)Cc1c2c([nH]c1)cccc2)Cc1c2c([nH]c1)cccc2,-0.4,O C ( = O ) [C@@H] ( N C ( = O ) [C@@H] ( N ) C c 1 c 2 c ( [nH] c 1 ) c c c c 2 ) C c 1 c 2 c ( [nH] c 1 ) c c c c 2
+108,A-logD7.4-466,O1C(=O)c2c(N=C1NC)cccc2,1.7,O 1 C ( = O ) c 2 c ( N = C 1 N C ) c c c c 2
+109,A-logD7.4-421,Clc1cc(Cl)ccc1-c1nc(nc(N)c1CN)C,1.4,Cl c 1 c c ( Cl ) c c c 1- c 1 n c ( n c ( N ) c 1 C N ) C
+110,O-241,OC(=O)Cc1[nH]c(cc1)C(=O)c1ccccc1,-0.67,O C ( = O ) C c 1 [nH] c ( c c 1 ) C ( = O ) c 1 c c c c c 1
+111,B-logD7.4-145,F[C@@]12[C@H]([C@@H]3C[C@@H](C)[C@](O)(C(=O)CO)[C@]3(C[C@@H]1O)C)CCC1=CC(=O)C=C[C@@]12C,1.83,F [C@@] 12 [C@H] ( [C@@H] 3 C [C@@H] ( C ) [C@] ( O ) ( C ( = O ) C O ) [C@] 3 ( C [C@@H] 1 O ) C ) C C C 1 = C C ( = O ) C = C [C@@] 12 C
+112,A-logD7.4-581,FC(F)(F)c1cc(cc(c1)C(F)(F)F)COCC(N1CCN(CC1)CC(O)=O)c1ccccc1,2.35,F C ( F ) ( F ) c 1 c c ( c c ( c 1 ) C ( F ) ( F ) F ) C O C C ( N 1 C C N ( C C 1 ) C C ( O ) = O ) c 1 c c c c c 1
